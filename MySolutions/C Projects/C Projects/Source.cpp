@@ -1,6 +1,10 @@
 #include <stdio.h>
+#include <stdlib.h>
+#include <Windows.h>
+
+
 
 int main() {
-	int var1 = 4;
-	printf("Hello, World!\n"); // first code in C!
+
+	printf("Hello world!\n");
 }
