@@ -3,8 +3,18 @@
 #include <Windows.h>
 
 
+// Playing around with printf
+void Draw() 
+{
+	printf("   /|\n");
+	printf("  / |\n");
+	printf(" /  |\n");
+	printf("/___|\n");
 
-int main() {
+}
 
+int main()
+{
 	printf("Hello world!\n");
+	Draw();
 }
